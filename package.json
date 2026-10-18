@@ -1,0 +1,9 @@
+{
+  "name": "findmydorm",
+  "version": "1.0.0",
+  "private": true,
+  "description": "FindMyDorm website and Node.js AI chatbot backend",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
